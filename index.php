@@ -10,6 +10,6 @@ dnd("deneme");
 	<title></title>
 </head>
 <body>
-
+<?php dnd("git"); ?>
 </body>
 </html>
